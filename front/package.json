@@ -25,7 +25,7 @@
     "maptalks.three": "^0.11.2",
     "moment": "^2.26.0",
     "nprogress": "^0.2.0",
-    "three": "^0.122.0",
+    "three": "^0.137.0",
     "typical-base": "0.0.6",
     "typical-mtk-onemap": "^0.1.8",
     "typical-vue-comps": "^1.1.8",
